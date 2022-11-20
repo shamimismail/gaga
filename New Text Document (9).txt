@@ -1,0 +1,86 @@
+1.What does processing mean?
+Ans: The procedure that transforms raw data into useful information is called processing.
+2. Which two components take part in processing?
+Ans: Processor & memory are two components take part in processing.
+3. Where are in the computer system the processor and memory units located?
+Ans: The processor and memory are located on the computer’s main system board or motherboard.
+4. Which component is called the brain or heart of computer?
+Ans: The CPU is called the brain or hreart of a computer.
+5. List three primary functions of the CPU?
+Ans: The three primary functions of the CPU are: i) CPU accepts data and instraction from the
+input device ii) CPU processes the data according to ther given instraction iii) CPU stores the
+results of the operation in its memory or displays it in a suitable output media .
+6. What other functions does the CPU performs besides processing?
+Ans: i) Controls the flow of data throughout the system ii) Control the operations of all other units
+of the system iii) Places data in memory and retrieves them when needed.
+7. How many components the CPU has?
+Ans: The CPU has two components : i) Arithmetic and logic unit ii) Control unit.
+8. What is bus?
+Ans: A bus is a communication system that transfers data between components inside a computer.
+9. With which the components of the CPU are usually connected?
+Ans: The CPU are usually connected by an electronic highway known as bus .
+10. What is regester ?
+Ans: To temporarity store data and instractions,the CPU has high speed special purpose memory
+devices called register .
+11. List the primary function of the ALU?
+Ans: The primary function of ALU is listed below: i) All arithmetic calculations and logical
+decisions are performed in the ALU ii) When needed for processing,ALU receives data and
+instractions from primary memory iii) ALU temporarily sends back the partial results to the
+primary memory,untill needed later iv) After the processing is over the ALU then send the final
+results to the memory unit to be stored either permanently or temporarily.
+12. List the primary function of the Control unit?
+Ans: The primary function of control unit is listed below: i) This unit controls and coordinates the
+activities of all othe units of a computer system ii) It takes instractions from the memory unit one
+at a time and interprets them.It then sends appropriate signals to all other units to cause the specific
+instraction to be executed. iii) According to the stored instractions the control unit ensures that the
+right operation is done on the right data at the right time .
+
+13. List the primary function of the memory unit?
+Ans: List the primary function of the memory unit is listed below: i) Memory stored data and
+instractions received from the input device for processing. ii) It supplies information of the ALU
+when required iii) It receives partial or final results from the ALU iv) It supplies final results to
+the output device.
+14. Which unit acts as a central nervous system although it does not performs any actual processing
+on the data?
+Ans: Control unit acts as a central nervous system although it does not performs any actual
+processing on the data.
+15.What do you mean by upward and downward compatibility?
+Ans: Upward compatibility :- It is the capability of a hardware device to interact successfully
+with all succeeding versions of software . This hardware device is called upward compatibility.
+Downward compatibility:- :- It is the capability of a new hardware device to interact successfully
+with all the same software product that its predecessor could. This hardware
+device is called downward compatibility.
+16. What does RISC and CISC processor mean?
+Ans: RISC _ Reduced Instraction Set Computer. CPUs designed according to this theory are
+called RISC.
+CISC – Complex Instraction Set Computer. CISC is a kind of microprocessor chip that typically
+contains 200 to 300 instractions in it.
+17. Why Co- processor is needed in a computer system?
+Ans: Co- processor is needed in a computer system because it enhance the processing speed of
+the main processor.
+18. What is bus? What are the three types of buses?
+Ans: A bus is a communication system that transfers data between components inside a computer.
+There are three types of buses.They are : i) Address Bus ii) Data Bus iii) Control Bus .
+19. Which bus is unidirectional ? Which bus is bidirectional ?
+Ans:- Address bus is unidirectional.
+Data bus is bi-directional.
+20. List some principal bus standard used in microcomputer along with their manufacturer and
+data bus length?
+Ans: i) Data Bus ii) Control Bus iii) ISA Bus iv) MCA Bus v) EISA Bus vi) PCI Bus vii) USB
+Bus viii) PCMCIA Bus .
+21. Which bus was not backward compatible ?
+Ans: MCA bus was not backward compatible.
+22. Which bus is open domain?
+Ans: PCI bus is open domain.
+23. Which bus is hot swappable ?
+Ans: USB bus is hot swappable.
+24. How many different devices the USB can support?
+Ans: 127 devices the USB can support.
+
+25.Which bus is called PC card?
+Ans: PCMCIA bus is called PC card.
+26.Define port: List some standard and specialized ports used in Micro computer ?
+Ans: i) Serial Port,Parallel Port,Network Port,Monitor Port,Audio Port,Modem Port.
+27. List some factors that can increase the processing speed of a computer?
+Ams: i) Size of the registerof the CPU ii) Size of memory iii) Cache memory iv) Clock Speed v)
+Data Bus vi) Address Bus vii)Coprocessor
